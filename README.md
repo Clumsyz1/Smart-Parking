@@ -1,5 +1,7 @@
 # Smart Parking - Ultimate Edition
 
+[Youtube](https://youtu.be/neoNfNXcBl8)
+
 โปรเจกต์ Arduino นี้เป็นระบบ Smart Parking สำหรับ ESP32 ที่ใช้เซ็นเซอร์ Ultrasonic ตรวจวัดระยะทาง และควบคุมไม้กั้นด้วย Servo พร้อมแสดงสถานะบนจอ LCD และเชื่อมต่อกับ Blynk
 
 ## ฟีเจอร์
